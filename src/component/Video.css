@@ -1,0 +1,20 @@
+div{
+    background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+  display: flex;
+    flex-direction: row;
+
+
+}
+input{
+    margin-top: 250px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+iframe{
+    margin-top: 10px;
+}
